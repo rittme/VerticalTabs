@@ -45,7 +45,8 @@ const DEFAULT_PREFS = {
   "extensions.verticaltabs.right": false,
   "extensions.verticaltabs.tabsOnTop": false,
   "browser.tabs.drawInTitlebar": false,
-  "extensions.verticaltabs.theme": 'default'
+  "extensions.verticaltabs.theme": 'default',
+  "extensions.verticaltabs.fullscreen": true
 };
 
 /**
