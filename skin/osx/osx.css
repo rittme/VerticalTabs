@@ -12,6 +12,10 @@
     height: 44px !important;
 }
 
+#titlebar {
+  background: var(--chrome-background-color);
+}
+
 .tabbrowser-tabs {
     margin: 0 !important;
     padding: 0 !important;
